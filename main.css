@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+    font-size: 1.2vw;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar{
+    display:flex;
+    height:5vw;
+    width:35vw;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.About{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.AboutText{
+    background-color: aqua;
+    width: 40vw;
+    height: 30vw;
+}
+.ProfileImg{
+    background-color: blue;
+    width: 30vw;
+    height: 30vw;
+    margin-left: 3vw;
+}
+p{
+    font-size: larger;
+}
+.AboutText2{
+    background-color: aqua;
+    width: 40vw;
+    height: 20vw;
+}
